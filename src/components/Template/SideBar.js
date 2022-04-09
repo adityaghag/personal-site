@@ -12,21 +12,19 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>ADITYA GHAG</h2>
+        <p><a href="mailto:aditya.ghag94@gmail.com">aditya.ghag94@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Aditya. I like building things.
+        I am a <a href="http://vesit.ves.ac.in/">VESIT</a> graduate and pursuing my second master&apos;s degree at <a href="http://vesit.ves.ac.in/">Rhine-Waal University of Applied Sciences</a>,
+        Also working as a blockchain developer(work student) at<a href="https://www.mpdl.mpg.de/en/">MPDL</a>.
+        ,Prior to MPDL, I worked at <a href="http://www.blueworld-gmbh.de/">Blueworld-gmbh</a>
+        , <a href="https://iconnectsolutions.com/">iConnect Info Solutions</a>
+        , <a href="https://www.wohlig.com/">Wohlig Transformations</a>.
       </p>
       <ul className="actions">
         <li>
